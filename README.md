@@ -1,5 +1,5 @@
 ---
-# Team Collaboration Guidelines
+# Team Collaboration Guideline
 
 Welcome to the repository! This document provides essential guidelines for contributing, committing, and collaborating effectively.
 ---
